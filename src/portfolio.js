@@ -304,6 +304,20 @@ const bigProjects = {
         }
       ]
     },
+    {
+      image: require("./assets/images/VIG.png"),
+      projectName: "VIG BETTING",
+      class: "two",
+      projectDesc:
+        "The purpose of the VIG BETTING platform is to give every ONE the opportunity to organize betting process, exactly as he wants",
+          url: "https://vig-bet-vivvidcodes-projects.vercel.app/",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://vig-bet-vivvidcodes-projects.vercel.app/"
+        }
+      ]
+    },
     
   ],
   display: true // Set false to hide this section, defaults to true
